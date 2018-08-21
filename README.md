@@ -6,6 +6,7 @@
 * 容错，本地缓存
 * 零依赖
 * 适配多种配置格式（.yaml  .json）
+* 增加返回类型来源
 
 ## 依赖
 
@@ -14,7 +15,7 @@
 ## 安装
 
 ```sh
-go get ksogit.kingsoft.net/gz_svr_dev/golib_configcenter.git
+go get git@github.com:yezl77/agollo.git
 ```
 
 ## 使用
