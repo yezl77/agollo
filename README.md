@@ -39,7 +39,7 @@ go get ksogit.kingsoft.net/gz_svr_dev/golib_configcenter.git
     AppID: "app-apollo-demo",
     Cluster: "default",
     NameSpaceNames:[]string{"application","testyaml.yaml","testjson.json"},
-    IP: "120.131.9.219:8080",
+    IP: "127.0.0.1:8080",
     EnvLocal: true,
     EnvLocalPath: "catchfile",
   }
