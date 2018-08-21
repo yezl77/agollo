@@ -1,0 +1,4 @@
+appId: app-apollo-demo
+ip:
+env_local: true
+env_local_path:

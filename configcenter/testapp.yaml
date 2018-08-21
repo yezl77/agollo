@@ -1,0 +1,9 @@
+appId: app-apollo-demo
+cluster: default
+namespaceNames:
+  - application
+  - testyaml.yaml
+  - testjson.json
+ip: 127.0.0.1:8080
+env_local: false
+env_local_path: D:\develop\workspace\file

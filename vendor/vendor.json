@@ -1,0 +1,12 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "pj6P+DpT0i82QdE7K5dFYvaHWIQ=",
+			"path": "github.com/huchangwei/agollo",
+			"revision": ""
+		}
+	],
+	"rootPath": "apollo_go"
+}
